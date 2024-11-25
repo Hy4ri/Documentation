@@ -49,7 +49,7 @@
 
     `ANDROID_RUNTIME_ROOT=/apex/com.android.runtime ANDROID_DATA=/data ANDROID_TZDATA_ROOT=/apex/com.android.tzdata ANDROID_I18N_ROOT=/apex/com.android.i18n sqlite3 /data/data/com.google.android.gsf/databases/gservices.db "select * from main where name = \"android_id\";"`
 
-3. Use the string of numbers printed by the command to register the device on your Google Account at [GooglePlay](https://www.google.com/android/uncertified).
+3. Use the string of numbers printed by the command to register the device on your Google Account at [Device registration](https://www.google.com/android/uncertified).
 
 4. Give the Google services some minutes to reflect the change, then restart waydroid.
 
