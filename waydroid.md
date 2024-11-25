@@ -10,7 +10,9 @@
 ## Enable network
 
 `sudo ufw allow 67`
+
 `sudo ufw allow 53`
+
 `sudo ufw default allow FORWARD`
 ---
 ## Tips 
@@ -19,7 +21,8 @@
 
     `waydroid prop set persist.waydroid.width auto`
     `waydroid prop set persist.waydroid.height auto`
-use auto or pixel size like 1920x1080
+
+* use auto or pixel size like 1920x1080
 
 2. Clean waydroid Installation
 
@@ -42,4 +45,4 @@ use auto or pixel size like 1920x1080
 
 3. Use the string of numbers printed by the command to register the device on your Google Account at [GooglePlay](https://www.google.com/android/uncertified)
 
-4.Give the Google services some minutes to reflect the change, then restart waydroid
+4. Give the Google services some minutes to reflect the change, then restart waydroid
