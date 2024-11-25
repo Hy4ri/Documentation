@@ -6,7 +6,7 @@
 2. run `waydroid init`, use `-s GAPPS` to get google apps.
 3. `sudo systemctl enable --now waydroid-container` to start waydroid on lunch or use `waydroid session start`.
 4. to use waydroid `waydroid show-full-ui`
---
+---
 ## Enable network
 
 `sudo ufw allow 67`
