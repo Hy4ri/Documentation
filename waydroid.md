@@ -26,7 +26,7 @@
     `waydroid prop set persist.waydroid.width auto`
     `waydroid prop set persist.waydroid.height auto`
 
-* use auto or pixel size like 1920x1080.
+* use auto or pixel size like 576x1024.
 
 2. Clean waydroid Installation:
 
