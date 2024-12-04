@@ -2,7 +2,7 @@
 
 ## TO check what Operating Systems are intalled on the device
 
-    `sudo efibootmgr -v `
+    sudo efibootmgr -v 
 
 ## To make grup detect other Operating Systems that are installed
 
