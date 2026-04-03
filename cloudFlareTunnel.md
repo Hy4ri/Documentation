@@ -29,4 +29,4 @@ ingress:
 
 ## Run the Tunnel
 
-`cloudflared tunnel run tunnel-name`
+`cloudflared tunnel --config ~/.cloudflared/config.yml run`
